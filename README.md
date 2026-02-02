@@ -1,0 +1,2 @@
+# DataPlatform_DE25_Rikard_Oledal_NewBranch
+DataPlatform course at STI
